@@ -1,0 +1,2 @@
+# TugasAI
+tugas kelompok AI
